@@ -3,3 +3,6 @@ What happens when you initialize a repository? Why do you need to do it?
 there are no commits
 Files need to be added
 I need to check the status to confirm it is really now a git repository
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+better tracking the changes.... make tests, before doing the commit as a package and  giving order to the files to be commited
