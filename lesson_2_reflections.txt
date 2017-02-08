@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+there are no commits
+Files need to be added
+I need to check the status to confirm it is really now a git repository

@@ -1,0 +1,25 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+
+muestra las partes del documento que han cambiado
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Me permite ver la evolución del código en el tiempo
+Puedo corregir errores en las versiones más rápidamente por medio de la restauración 
+
+How can you use the commands git log and git diff to view the history of files?
+ver un listado glbal de los cambios. Tambien puedo comparar e identificar cambios especificos entre dos commit 
+
+git --stats #para ver estadísticas de los commits
+
+git clone URL
+git log
+
+git clone https://github.com/udacity/asteroids.git
+
+commits
+
+b0678b161fcf74467ed3a63110557e3d6229cfa6 f19cb1b80fe27e938e4d72770ca0a42f25e99ecc
+
+
