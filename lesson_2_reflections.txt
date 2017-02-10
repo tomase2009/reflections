@@ -6,3 +6,31 @@ I need to check the status to confirm it is really now a git repository
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 better tracking the changes.... make tests, before doing the commit as a package and  giving order to the files to be commited
+
+How can you use the staging area to make sure you have one commit per logical change?
+With the command git diff --staged I can compare the changes against the last commit and see each change and define the package of files to be commited
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+To experiment really deep new changes to your software... to manage clean improvment initiatives
+
+How do the diagrams help you visualize the branch structure
+To see exactly where I am standing.  To be able to merge the functionalities created to the master branch
+To have my own exploring paths.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+keeping track of all commits - incorporate the changes to the most recent status of the project
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+safe time, take better decision to keep versions of code written by two different authors
+
+C:/Users/tomas2/Documents/docs-for-android/curso-git-github/version-control/asteroids
+
+
+df035382c41b4d0cda86a1aa30b53f15bef05b53
+
+25ede836903881848fea811df5b687b59d962da3
+
+git config --global core.editor "'C:/Program Files/Sublime Text 3/sublime_text.exe' -n -w"
+
+
