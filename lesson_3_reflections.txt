@@ -1,1 +1,5 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+PAra tener copias de mi trabajo
+Para fomentar el trabajo en equipo
+
